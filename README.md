@@ -1,5 +1,5 @@
 # About me 😊
-Hola soy silvia
+My name is Silvia. I am gradueted of Finance, Bankiang and Insurance. I am really intereted in data analytics.
 
 ## Projects
 
