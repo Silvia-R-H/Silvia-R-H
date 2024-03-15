@@ -1,5 +1,5 @@
 # About me 😊
-My name is Silvia. I am gradueted of Finance, Banking and Insurance. I am really interested in data analytics.
+My name is Silvia. I am graduated of Finance, Banking and Insurance. I am really interested in data analytics.
 
 ## Projects
 
